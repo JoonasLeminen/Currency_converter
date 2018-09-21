@@ -1,0 +1,15 @@
+.main-panel{
+    margin-top: 200px;
+    box-sizing: content-box;
+}
+div.row{
+    padding: 10px;
+}
+.header{
+    background-color: darkcyan;
+    color:white;
+    font-weight: bold;
+}
+.panel{
+    background-color: whitesmoke;
+}
