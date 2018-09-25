@@ -13,3 +13,11 @@ div.row{
 .panel{
     background-color: whitesmoke;
 }
+footer{
+    background-color: gray;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    padding: 30px;
+    margin-top: 50px;
+}
